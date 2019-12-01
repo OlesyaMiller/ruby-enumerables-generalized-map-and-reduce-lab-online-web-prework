@@ -10,8 +10,6 @@ def map(array)
   final_array
 end
 
-    
-
 def reduce(array, sv = nil)
   if sv 
     sum = sv 
